@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm paradise41</h1>
 <h3 align="center">I'm a Freelance Coders</h3>
 
-- 📝 I regularly write articles on [https://github.io/simple-web](https://github.io/simple-web)
 
-- ⚡ Fun fact **I think I could if I meant it but you know I'm lazy ;(**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- :) Fun fact **I think I could if I meant it but you know I'm lazy ;(**
+
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
